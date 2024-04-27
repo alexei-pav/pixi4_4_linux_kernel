@@ -1,0 +1,1 @@
+cmd_drivers/misc/mediatek/imgsensor/src/mt6580/s5k5e8yx_mipi_raw/built-in.o :=  /home/losos/android-ndk-r11c/toolchains/arm-linux-androideabi-4.9/prebuilt/linux-x86_64/bin/arm-linux-androideabi-ld -EL   -r -o drivers/misc/mediatek/imgsensor/src/mt6580/s5k5e8yx_mipi_raw/built-in.o drivers/misc/mediatek/imgsensor/src/mt6580/s5k5e8yx_mipi_raw/s5k5e8yxmipiraw_Sensor.o 

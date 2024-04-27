@@ -1,0 +1,1 @@
+cmd_drivers/misc/mediatek/imgsensor/src/mt6580/gc0310_mipi_yuv/built-in.o :=  /home/losos/android-ndk-r11c/toolchains/arm-linux-androideabi-4.9/prebuilt/linux-x86_64/bin/arm-linux-androideabi-ld -EL   -r -o drivers/misc/mediatek/imgsensor/src/mt6580/gc0310_mipi_yuv/built-in.o drivers/misc/mediatek/imgsensor/src/mt6580/gc0310_mipi_yuv/gc0310mipi_yuv_Sensor.o 

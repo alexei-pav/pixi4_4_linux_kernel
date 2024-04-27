@@ -1,0 +1,1 @@
+cmd_net/netfilter/nf_nat.o := /home/losos/android-ndk-r11c/toolchains/arm-linux-androideabi-4.9/prebuilt/linux-x86_64/bin/arm-linux-androideabi-ld -EL   -r -o net/netfilter/nf_nat.o net/netfilter/nf_nat_core.o net/netfilter/nf_nat_proto_unknown.o net/netfilter/nf_nat_proto_common.o net/netfilter/nf_nat_proto_udp.o net/netfilter/nf_nat_proto_tcp.o net/netfilter/nf_nat_helper.o 

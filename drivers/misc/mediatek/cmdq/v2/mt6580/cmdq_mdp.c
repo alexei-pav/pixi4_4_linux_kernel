@@ -1,4 +1,4 @@
-#include "cmdq_core.h"
+#include "../cmdq_core.h"
 #include "cmdq_reg.h"
 #include "cmdq_mdp_common.h"
 #ifdef CMDQ_MET_READY

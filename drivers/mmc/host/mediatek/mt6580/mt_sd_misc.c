@@ -33,7 +33,7 @@
 #include <linux/dma-mapping.h>
 #include <queue.h>
 #include "mt_sd.h"
-#include <mt-plat/sd_misc.h>
+#include "../../../../misc/mediatek/include/mt-plat/sd_misc.h"
 
 #ifndef FPGA_PLATFORM
 #ifdef CONFIG_MTK_CLKMGR

@@ -26,9 +26,9 @@
 #include <asm/page.h>
 #include <linux/proc_fs.h>
 
-#include "m4u_priv.h"
-#include "m4u.h"
-#include "m4u_hw.h"
+#include "../mt6580/m4u_priv.h"
+#include "../mt6580/m4u.h"
+#include "../mt6580/m4u_hw.h"
 
 #include <linux/of.h>
 #include <linux/of_irq.h>

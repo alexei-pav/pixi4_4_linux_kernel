@@ -5,7 +5,7 @@
 #include <linux/module.h>
 
 #include "m4u_debug.h"
-#include "m4u_priv.h"
+#include "../mt6580/m4u_priv.h"
 
 
 /* global variables */

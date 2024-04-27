@@ -642,7 +642,7 @@ static int umplock_driver_release( struct inode *inode, struct file *filp )
 
 static int __init umplock_initialize_module( void )
 {
-	printk( KERN_DEBUG "Inserting UMP lock device driver. Compiled: %s, time: %s\n", __DATE__, __TIME__ );
+	//printk( KERN_DEBUG "Inserting UMP lock device driver. Compiled: %s, time: %s\n", __DATE__, __TIME__ );
 
 	if ( !umplock_constructor() )
 	{

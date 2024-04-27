@@ -1,0 +1,1 @@
+cmd_drivers/misc/mediatek/base/power/built-in.o :=  /home/losos/android-ndk-r11c/toolchains/arm-linux-androideabi-4.9/prebuilt/linux-x86_64/bin/arm-linux-androideabi-ld -EL   -r -o drivers/misc/mediatek/base/power/built-in.o drivers/misc/mediatek/base/power/mt6580/built-in.o drivers/misc/mediatek/base/power/spm_v1/built-in.o drivers/misc/mediatek/base/power/cpuidle_v1/built-in.o 

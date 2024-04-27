@@ -1,0 +1,1 @@
+cmd_drivers/misc/mediatek/boot_reason/BOOT_REASON.o := /home/losos/android-ndk-r11c/toolchains/arm-linux-androideabi-4.9/prebuilt/linux-x86_64/bin/arm-linux-androideabi-ld -EL   -r -o drivers/misc/mediatek/boot_reason/BOOT_REASON.o drivers/misc/mediatek/boot_reason/mt_boot_reason.o 

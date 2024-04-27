@@ -1,0 +1,1 @@
+cmd_drivers/misc/mediatek/fmradio/built-in.o :=  /home/losos/android-ndk-r11c/toolchains/arm-linux-androideabi-4.9/prebuilt/linux-x86_64/bin/arm-linux-androideabi-ld -EL   -r -o drivers/misc/mediatek/fmradio/built-in.o drivers/misc/mediatek/fmradio/mtk_fm_drv.o drivers/misc/mediatek/fmradio/dummy.o 

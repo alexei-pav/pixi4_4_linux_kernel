@@ -1,0 +1,1 @@
+cmd_sound/synth/built-in.o :=  /home/losos/android-ndk-r11c/toolchains/arm-linux-androideabi-4.9/prebuilt/linux-x86_64/bin/arm-linux-androideabi-ld -EL   -r -o sound/synth/built-in.o sound/synth/emux/built-in.o 

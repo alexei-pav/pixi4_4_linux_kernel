@@ -1,0 +1,1 @@
+cmd_arch/arm/common/built-in.o :=  /home/losos/android-ndk-r11c/toolchains/arm-linux-androideabi-4.9/prebuilt/linux-x86_64/bin/arm-linux-androideabi-ld -EL   -r -o arch/arm/common/built-in.o arch/arm/common/firmware.o arch/arm/common/fiq_glue.o arch/arm/common/fiq_glue_setup.o 
