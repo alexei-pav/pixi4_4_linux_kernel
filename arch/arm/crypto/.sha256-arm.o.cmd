@@ -1,1 +1,0 @@
-cmd_arch/arm/crypto/sha256-arm.o := /home/losos/android-ndk-r11c/toolchains/arm-linux-androideabi-4.9/prebuilt/linux-x86_64/bin/arm-linux-androideabi-ld -EL   -r -o arch/arm/crypto/sha256-arm.o arch/arm/crypto/sha256-core.o arch/arm/crypto/sha256_glue.o arch/arm/crypto/sha256_neon_glue.o 

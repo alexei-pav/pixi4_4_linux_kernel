@@ -1,1 +1,0 @@
-cmd_drivers/misc/mediatek/imgsensor/src/mt6580/gc2355_mipi_raw_front/built-in.o :=  /home/losos/android-ndk-r11c/toolchains/arm-linux-androideabi-4.9/prebuilt/linux-x86_64/bin/arm-linux-androideabi-ld -EL   -r -o drivers/misc/mediatek/imgsensor/src/mt6580/gc2355_mipi_raw_front/built-in.o drivers/misc/mediatek/imgsensor/src/mt6580/gc2355_mipi_raw_front/gc2355mipi_Sensor_front.o 

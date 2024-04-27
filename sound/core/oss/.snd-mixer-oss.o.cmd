@@ -1,1 +1,0 @@
-cmd_sound/core/oss/snd-mixer-oss.o := /home/losos/android-ndk-r11c/toolchains/arm-linux-androideabi-4.9/prebuilt/linux-x86_64/bin/arm-linux-androideabi-ld -EL   -r -o sound/core/oss/snd-mixer-oss.o sound/core/oss/mixer_oss.o 

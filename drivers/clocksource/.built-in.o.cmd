@@ -1,1 +1,0 @@
-cmd_drivers/clocksource/built-in.o :=  /home/losos/android-ndk-r11c/toolchains/arm-linux-androideabi-4.9/prebuilt/linux-x86_64/bin/arm-linux-androideabi-ld -EL   -r -o drivers/clocksource/built-in.o drivers/clocksource/clksrc-of.o drivers/clocksource/dummy_timer.o 

@@ -1,1 +1,0 @@
-cmd_arch/arm/vfp/built-in.o :=  /home/losos/android-ndk-r11c/toolchains/arm-linux-androideabi-4.9/prebuilt/linux-x86_64/bin/arm-linux-androideabi-ld -EL --no-warn-mismatch  -r -o arch/arm/vfp/built-in.o arch/arm/vfp/vfp.o 

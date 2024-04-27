@@ -1,1 +1,0 @@
-cmd_drivers/misc/lis3lv02d/built-in.o :=  rm -f drivers/misc/lis3lv02d/built-in.o; /home/losos/android-ndk-r11c/toolchains/arm-linux-androideabi-4.9/prebuilt/linux-x86_64/bin/arm-linux-androideabi-ar rcsD drivers/misc/lis3lv02d/built-in.o

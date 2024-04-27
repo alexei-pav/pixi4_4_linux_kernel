@@ -1,1 +1,0 @@
-cmd_fs/pstore/ramoops.o := /home/losos/android-ndk-r11c/toolchains/arm-linux-androideabi-4.9/prebuilt/linux-x86_64/bin/arm-linux-androideabi-ld -EL   -r -o fs/pstore/ramoops.o fs/pstore/ram.o fs/pstore/ram_core.o 

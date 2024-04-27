@@ -1,1 +1,0 @@
-cmd_net/802/built-in.o :=  /home/losos/android-ndk-r11c/toolchains/arm-linux-androideabi-4.9/prebuilt/linux-x86_64/bin/arm-linux-androideabi-ld -EL   -r -o net/802/built-in.o net/802/p8022.o net/802/psnap.o net/802/stp.o 

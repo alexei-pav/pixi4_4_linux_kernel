@@ -1,1 +1,0 @@
-cmd_sound/core/oss/snd-pcm-oss.o := /home/losos/android-ndk-r11c/toolchains/arm-linux-androideabi-4.9/prebuilt/linux-x86_64/bin/arm-linux-androideabi-ld -EL   -r -o sound/core/oss/snd-pcm-oss.o sound/core/oss/pcm_oss.o sound/core/oss/pcm_plugin.o sound/core/oss/io.o sound/core/oss/copy.o sound/core/oss/linear.o sound/core/oss/mulaw.o sound/core/oss/route.o sound/core/oss/rate.o 

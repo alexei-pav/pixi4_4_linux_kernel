@@ -1,1 +1,0 @@
-cmd_arch/arm/crypto/built-in.o :=  /home/losos/android-ndk-r11c/toolchains/arm-linux-androideabi-4.9/prebuilt/linux-x86_64/bin/arm-linux-androideabi-ld -EL   -r -o arch/arm/crypto/built-in.o arch/arm/crypto/aes-arm.o arch/arm/crypto/aes-arm-bs.o arch/arm/crypto/sha256-arm.o arch/arm/crypto/sha2-arm-ce.o 

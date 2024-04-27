@@ -1,1 +1,0 @@
-cmd_drivers/misc/mediatek/imgsensor/src/mt6580/ov5670_mipi_raw/built-in.o :=  /home/losos/android-ndk-r11c/toolchains/arm-linux-androideabi-4.9/prebuilt/linux-x86_64/bin/arm-linux-androideabi-ld -EL   -r -o drivers/misc/mediatek/imgsensor/src/mt6580/ov5670_mipi_raw/built-in.o drivers/misc/mediatek/imgsensor/src/mt6580/ov5670_mipi_raw/ov5670mipi_Sensor.o 

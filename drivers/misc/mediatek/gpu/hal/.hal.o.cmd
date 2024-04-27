@@ -1,1 +1,0 @@
-cmd_drivers/misc/mediatek/gpu/hal/hal.o := /home/losos/android-ndk-r11c/toolchains/arm-linux-androideabi-4.9/prebuilt/linux-x86_64/bin/arm-linux-androideabi-ld -EL   -r -o drivers/misc/mediatek/gpu/hal/hal.o drivers/misc/mediatek/gpu/hal/mtk_gpu_utility.o 

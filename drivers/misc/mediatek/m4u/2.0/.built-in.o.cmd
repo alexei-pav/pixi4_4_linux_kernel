@@ -1,1 +1,0 @@
-cmd_drivers/misc/mediatek/m4u/2.0/built-in.o :=  /home/losos/android-ndk-r11c/toolchains/arm-linux-androideabi-4.9/prebuilt/linux-x86_64/bin/arm-linux-androideabi-ld -EL   -r -o drivers/misc/mediatek/m4u/2.0/built-in.o drivers/misc/mediatek/m4u/2.0/m4u.o drivers/misc/mediatek/m4u/2.0/m4u_mva.o drivers/misc/mediatek/m4u/2.0/m4u_pgtable.o drivers/misc/mediatek/m4u/2.0/m4u_debug.o 

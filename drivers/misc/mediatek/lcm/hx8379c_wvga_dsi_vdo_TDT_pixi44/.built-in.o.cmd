@@ -1,1 +1,0 @@
-cmd_drivers/misc/mediatek/lcm/hx8379c_wvga_dsi_vdo_TDT_pixi44/built-in.o :=  /home/losos/android-ndk-r11c/toolchains/arm-linux-androideabi-4.9/prebuilt/linux-x86_64/bin/arm-linux-androideabi-ld -EL   -r -o drivers/misc/mediatek/lcm/hx8379c_wvga_dsi_vdo_TDT_pixi44/built-in.o drivers/misc/mediatek/lcm/hx8379c_wvga_dsi_vdo_TDT_pixi44/hx8379c_wvga_dsi_vdo_TDT_pixi44.o 

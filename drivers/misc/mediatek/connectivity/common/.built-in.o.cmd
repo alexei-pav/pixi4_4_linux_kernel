@@ -1,1 +1,0 @@
-cmd_drivers/misc/mediatek/connectivity/common/built-in.o :=  /home/losos/android-ndk-r11c/toolchains/arm-linux-androideabi-4.9/prebuilt/linux-x86_64/bin/arm-linux-androideabi-ld -EL   -r -o drivers/misc/mediatek/connectivity/common/built-in.o drivers/misc/mediatek/connectivity/common/conn_soc/built-in.o drivers/misc/mediatek/connectivity/common/common_detect/built-in.o 

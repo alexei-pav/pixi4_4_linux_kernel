@@ -1,1 +1,0 @@
-cmd_drivers/input/keyboard/mediatek/built-in.o :=  /home/losos/android-ndk-r11c/toolchains/arm-linux-androideabi-4.9/prebuilt/linux-x86_64/bin/arm-linux-androideabi-ld -EL   -r -o drivers/input/keyboard/mediatek/built-in.o drivers/input/keyboard/mediatek/kpd.o drivers/input/keyboard/mediatek/mt6580/built-in.o 
