@@ -15,12 +15,12 @@
 #include "mtkfb.h"
 #include "debug.h"
 #include "lcm_drv.h"
-#include "ddp_ovl.h"
-#include "ddp_path.h"
-#include "ddp_dsi.h"
-#include "ddp_reg.h"
+#include "../dispsys/ddp_ovl.h"
+#include "../dispsys/ddp_path.h"
+#include "../dispsys/ddp_dsi.h"
+#include "../dispsys/ddp_reg.h"
 #include "primary_display.h"
-#include "display_recorder.h"
+#include "../dispsys/display_recorder.h"
 #ifdef CONFIG_MTK_LEGACY
 #include <mt-plat/mt_gpio.h>
 /* #include <cust_gpio_usage.h> */

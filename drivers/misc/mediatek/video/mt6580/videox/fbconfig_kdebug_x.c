@@ -12,12 +12,12 @@
 #include "mtkfb.h"
 #include "debug.h"
 #include "lcm_drv.h"
-#include "ddp_path.h"
+#include "../dispsys/ddp_path.h"
 #include "fbconfig_kdebug_x.h"
 #include "primary_display.h"
-#include "ddp_ovl.h"
-#include "ddp_dsi.h"
-#include "ddp_irq.h"
+#include "../dispsys/ddp_ovl.h"
+#include "../dispsys/ddp_dsi.h"
+#include "../dispsys/ddp_irq.h"
 #include "m4u_priv.h"
 
 /* #include "disp_drv.h" */
