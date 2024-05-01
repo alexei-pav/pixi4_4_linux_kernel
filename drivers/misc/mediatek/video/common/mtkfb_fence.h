@@ -3,7 +3,7 @@
 
 #include <linux/mutex.h>
 #include <linux/list.h>
-#include "../mt6580/videox/disp_session.h"
+#include "../include/disp_session.h"
 #include "../mt6580/videox/disp_drv_platform.h"
 #include "../mt6580/dispsys/display_recorder.h"
 
