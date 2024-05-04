@@ -1,0 +1,7 @@
+out/
+.config
+.vscode/
+Image
+zImage
+zImage-dtb
+.o

@@ -1,4 +1,9 @@
+#!/bin/bash
+clear
 echo "cleaning..."
-make clean
-make mrproper
+if ! [ -d out ]; then
+mkdir out/
+fi
+make O=out clean
+make O=out mrproper
 echo "done!"
